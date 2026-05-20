@@ -1,0 +1,1 @@
+Hello this file not showed in "git commit -a -m" before trackted
