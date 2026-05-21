@@ -5,10 +5,10 @@ function greeting(name) {
 
 // تغییر دوم: اضافه کردن ضرب (اشتباهی!)
 function calculateSum(a, b) {
-    return a + b + 100;  // این باگ را می‌خواهی بعداً درست کنی
+    return a + b;  // این باگ را می‌خواهی بعداً درست کنی
 }
 
 // تغییر سوم: بهبود ShowMessage
 function showMessage(msg) {
-    console.log(msg);  // بهتر از alert است
+    console.log(msg + " - ");  // بهتر از alert است
 }
