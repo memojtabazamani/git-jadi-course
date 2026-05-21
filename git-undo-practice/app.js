@@ -1,12 +1,14 @@
-// حالت اولیه فایل
+// تغییر اول: اضافه کردن اسم به Greeting
 function greeting(name) {
-    console.log("Hello");
+    console.log("Hello " + name);
 }
 
+// تغییر دوم: اضافه کردن ضرب (اشتباهی!)
 function calculateSum(a, b) {
-    return a + b;
+    return a + b + 100;  // این باگ را می‌خواهی بعداً درست کنی
 }
 
+// تغییر سوم: بهبود ShowMessage
 function showMessage(msg) {
-    alert(msg);
+    console.log(msg);  // بهتر از alert است
 }
