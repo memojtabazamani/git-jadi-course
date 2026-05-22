@@ -1,6 +1,6 @@
 // تغییر اول: اضافه کردن اسم به Greeting
 function greeting(name) {
-    console.log("Hello " + name);
+    console.log("Helloe);
 }
 
 // تغییر دوم: اضافه کردن ضرب (اشتباهی!)
