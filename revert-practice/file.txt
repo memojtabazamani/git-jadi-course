@@ -1,1 +1,1 @@
-"Version 3: Hello world from Git" 
+Version 1: Hello from Git
