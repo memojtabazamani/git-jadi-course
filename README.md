@@ -6,5 +6,5 @@ Oh! and there!
 
 
 
-Hi i was learning GitHub!
+Hi GitHub!
 
