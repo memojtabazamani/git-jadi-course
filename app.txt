@@ -3,3 +3,5 @@ Hello
 main change
 
 feature line 1
+
+feature line 2
