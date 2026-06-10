@@ -1,2 +1,5 @@
 mojtaba work on logout
 
+1. Please make logout button
+2. When click that must be logout from account
+3. and then log in system
